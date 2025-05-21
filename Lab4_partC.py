@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 28 17:49:38 2023
 
-@author: anwar
+@author:Luis.G
 """
 
 def ConvertToMilitaryTime(time):
